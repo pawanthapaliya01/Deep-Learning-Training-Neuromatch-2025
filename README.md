@@ -11,4 +11,7 @@ In contrast, with the VAE classification accuracy and reconstruction error reach
 Our initial results indicate that VAE’s reconstructions reach higher classification accuracy at a lower latent dimensionality compared to PCA. This suggests that VAEs are better suited to be used for measuring the dimensionality of the input space, provided that regularization is appropriate.
 Our follow-up experiments are oriented towards understanding this behaviour and defining the manifold dimensionality.
 
+<img width="635" height="444" alt="image" src="https://github.com/user-attachments/assets/3f34da89-f4a0-4bbc-a276-289a56c974b3" />
+
+
 <img width="1267" height="1008" alt="image" src="https://github.com/user-attachments/assets/66f0613b-181a-4a9c-9311-95bd6f684acb" />
