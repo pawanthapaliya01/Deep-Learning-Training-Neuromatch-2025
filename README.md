@@ -15,3 +15,5 @@ Our follow-up experiments are oriented towards understanding this behaviour and 
 
 
 <img width="1267" height="1008" alt="image" src="https://github.com/user-attachments/assets/66f0613b-181a-4a9c-9311-95bd6f684acb" />
+
+<img width="1342" height="664" alt="image" src="https://github.com/user-attachments/assets/654da7dc-d1d0-4bb5-a4ef-dd1e033b3857" />
